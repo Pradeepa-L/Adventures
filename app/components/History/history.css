@@ -1,0 +1,38 @@
+.bodySignup .mainCard{
+   
+    padding: 50px 20px 50px 20px;
+    margin-top:-550px;
+    height:180px;
+    width:550px;
+   
+}
+.head{
+    color:#2D3E8E;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left:-56px;
+    margin-left:280px;
+}
+.history{
+    margin-left:400px;
+    height:100px;
+    margin-top:80px;
+    height:180px;
+    width:550px;
+}
+.history1{
+    margin-left:400px;
+    margin-top:270px;
+    height:180px;
+    width:550px;
+}
+.history2{
+    margin-left:400px;
+    margin-top:440px;
+    height:180px;
+    width:500px;
+}
+.invoicebtn{
+    width:50%;
+    margin-left:30px;
+}

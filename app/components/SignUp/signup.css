@@ -1,0 +1,26 @@
+.bodySignup .SignupmainCard{
+   
+    padding: 100px 550px 100px 450px;
+    width:450px;
+    margin-top:-530px;
+    margin-left: 498px;
+    height:550px;
+}
+
+.bodySignup .card{
+    padding: 30px;
+}
+.bodySignup .heading{
+    font-size: 40px;
+    color:#2D3E8E;
+    text-align: center;
+}
+.signupform{
+    width:350px;
+    margin-top: 40px;
+    margin-left:50px;
+}
+.forgot{
+    text-align: center;
+    color:#2D3E8E;
+}

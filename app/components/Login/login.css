@@ -1,0 +1,39 @@
+.body .mainCard{
+   
+    padding: 100px 550px 100px 450px;
+    width:450px;
+    margin-top:-540px;
+    margin-left: 498px;
+    height:500px;
+}
+
+ /* .logincard{
+    padding: 30px;
+    border:none;
+    margin-top:30px;
+} */
+.heading{
+    font-size: 40px;
+    color:#2D3E8E;
+} 
+.loginform{
+    width:300px;
+    margin-top: 40px;
+    margin-left:50px;
+}
+.img{
+    width:200px;
+    height:150px;
+    margin-left:80px;
+    margin-top:-50px;
+}
+.forgot{
+    text-align: center;
+    color:#2D3E8E;
+}
+.create{
+    color:#2D3E8E;
+}
+.register{
+    margin-left:20px;
+}

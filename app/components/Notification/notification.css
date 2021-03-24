@@ -1,0 +1,40 @@
+.body {
+    padding-top: 20px ;
+    /* margin-top: -800; */
+   margin-left:-70px;
+}
+
+.card{
+    padding:0px;
+    width:700px;
+    height:50px;
+    position: absolute;
+    margin-top: 15px;
+}
+.cardText{
+    border: 1px solid #bbb;
+    padding:15px;
+    padding-left:60px;
+    margin-left:190px;
+}
+
+.head{
+    color:#2D3E8E;
+    font-weight: bold;
+    font-size: 20px;
+}
+.about{
+    background-color: #2D3E8E;
+}
+.mainCard1{
+    padding-top:20px;
+    margin-top: -500px;
+    padding-left: 20px;
+    margin-left:240px;
+}
+.mainCard2{
+    padding-top:20px;
+    margin-top: 100px;
+    padding-left: 20px;
+    margin-left:240px;
+}
